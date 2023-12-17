@@ -1,0 +1,7 @@
+{
+  "name": "ScanDataToOffice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
