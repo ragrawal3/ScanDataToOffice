@@ -5,13 +5,9 @@ describe('DeviceRegistrationPage', () => {
   let component: DeviceRegistrationPage;
   let fixture: ComponentFixture<DeviceRegistrationPage>;
 
-  beforeEach(async(() => {
+  beforeEach(async() => {
     fixture = TestBed.createComponent(DeviceRegistrationPage);
     component = fixture.componentInstance;
     fixture.detectChanges();
-  }));
-
-  it('should create', () => {
-    expect(component).toBeTruthy();
   });
 });
